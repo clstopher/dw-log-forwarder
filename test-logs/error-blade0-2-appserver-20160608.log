@@ -130,3 +130,4 @@ Request Parameters
 LineItemGroupUUID=bdy72iaag01XYaaadnHNJA3bIk
 packageDetail=packageDetail
 OrderID=deEGwiaag0AboaaadnrNJA3cIk
+[2017-12-08 10:18:07.743 GMT] ERROR PipelineCallServlet|610098914 com.demandware.beehive.core.internal.request.filter.PreparePipelineCallFilter - - - - 4896706836443845632 - Invalid pipeline request URL: http://localhost:10163/servlet/Beehive/Sites-mysite0a_us-Site/default/images/kitten-large.png
